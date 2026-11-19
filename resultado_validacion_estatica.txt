@@ -1,0 +1,5 @@
+VALIDACION ESTATICA DE COHERENCIA (NO EQUIVALE A EJECUCION EN POSTGRESQL)
+Modelado: 12 tablas, 42 columnas, 11 relaciones FK.
+Validado: existencia de CREATE TABLE, PK por tabla, nombres de columnas, 11 destinos FK, indice parcial, vistas, triggers diferibles.
+Estado: SIN ERRORES DETECTADOS
+Pendiente: ejecucion real con PostgreSQL/pgAdmin para verificaciones funcionales y capturas propias.
